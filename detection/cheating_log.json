@@ -1,0 +1,974 @@
+{"time": "2026-02-12 20:34:03", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:03", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:04", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:04", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:04", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:05", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:05", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:05", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:06", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:06", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:06", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:07", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:07", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:07", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:08", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:08", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:08", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:09", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:09", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:09", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:10", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:10", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:11", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:11", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:12", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:12", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:12", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:13", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:13", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:13", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:14", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:14", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:14", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:15", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:15", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:15", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:16", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:16", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:16", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:17", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:17", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:17", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:18", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:18", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:18", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:19", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:19", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:19", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:20", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:20", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:20", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:20", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:20", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:21", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:21", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:21", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:22", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:22", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:23", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:23", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:23", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:24", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:24", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:24", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:24", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:24", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:24", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:24", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:24", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:25", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:25", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:25", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:25", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:25", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:25", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:25", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:44", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:44", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:45", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:45", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:45", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:46", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:46", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:46", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:47", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:47", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:48", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:48", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:48", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:48", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:49", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:49", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:49", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:49", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:49", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:49", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:49", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:49", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:49", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:49", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:49", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:51", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:51", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:52", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:52", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:52", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:53", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:53", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:54", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:54", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:54", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:54", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:54", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:54", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:54", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:54", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:54", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:54", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:54", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:34:54", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:54", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:54", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:54", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:54", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:54", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:55", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:55", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:55", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:55", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:55", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:55", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:55", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:55", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:55", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:56", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:56", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:56", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:57", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:57", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:34:57", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:57", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:57", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:34:57", "event": "blink", "value": true}
+{"time": "2026-02-12 20:34:57", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:34:57", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:25", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:25", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:25", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:25", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:35:25", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:25", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:25", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:25", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:25", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:26", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:26", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:26", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:27", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:27", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:27", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:28", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:35:28", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:28", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:29", "event": "gaze", "value": "Looking Left"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:29", "event": "gaze", "value": "Looking Right"}
+{"time": "2026-02-12 20:35:29", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:29", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:30", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:30", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:30", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:31", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:31", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:32", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:32", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:32", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:33", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:33", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:33", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:34", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:34", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:34", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:35", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:35", "event": "head", "value": "Head Left"}
+{"time": "2026-02-12 20:35:35", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:35", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:35", "event": "head", "value": "Head Up"}
+{"time": "2026-02-12 20:35:35", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:35", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:35", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:35", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Down"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Right"}
+{"time": "2026-02-12 20:35:36", "event": "blink", "value": true}
+{"time": "2026-02-12 20:35:36", "event": "mouth", "value": "open"}
+{"time": "2026-02-12 20:35:36", "event": "head", "value": "Head Right"}
